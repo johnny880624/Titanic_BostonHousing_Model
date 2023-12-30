@@ -1,5 +1,6 @@
 # Introduction
 Titanic and Boston Housing are two of classical Kaggle Competitions and my machine learning initial point as well.    
+   
 Titanic(Classification problem): Based on attributes such as age, sex, Embarked and etc...., we buld the model to predict whether the customer is dead or not.  
 Boston Housing(Linear Regression problem): According attributes like location, room size, room age and etc...., we develop the model to forecast the price of the housing.
 
