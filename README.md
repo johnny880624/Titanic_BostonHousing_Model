@@ -7,5 +7,5 @@ Boston Housing(Linear Regression problem): According attributes like location, r
 ## Methods in Titanic
 1. Craving my model from the scratch and didn't using any package to fulfill the model building_[The Titanic_level 1](https://github.com/johnny880624/Titanic-Machine-Learning/blob/main/Titanic%26BostonHousing/titanic_level1.py).  
 2. Utilizing package such as scikit-learn to develop my model_[The Titanic_level 2](https://github.com/johnny880624/Titanic-Machine-Learning/blob/main/Titanic%26BostonHousing/titanic_level2.py).  
-## Method in Boston
+## Method in Boston Housing
 1. Applying package such as scikit-learn to develop my model_[Boston-Housing](https://github.com/johnny880624/Titanic-Machine-Learning/blob/main/Titanic%26BostonHousing/boston_housing_competition.py).
